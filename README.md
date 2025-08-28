@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- Language and Tools Section -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Language%20and%20tools&fontSize=25&color=0:8871e5,100:b678c4" alt="image Language and tools" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=50&text=Language%20and%20tools&fontSize=25&color=0:8871e5,100:b678c4" alt="image Language and tools" />
 
 <div>
   <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
@@ -45,7 +45,7 @@
 <br>
 
 <!-- Connect Section -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Socials%20&fontSize=25&color=0:00FFFF,100:1E90FF" alt="image Connect with me"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=50&text=Socials%20&fontSize=25&color=0:00FFFF,100:1E90FF" alt="image Connect with me"/>
 
 <div align="center">
 <a href="https://linkedin.com/in/e-rchd" target="_blank">
