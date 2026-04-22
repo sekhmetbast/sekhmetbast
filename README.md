@@ -3,8 +3,7 @@ Développeuse full stack récemment reconvertie, je me spécialise en **PHP / Sy
 
 - 👩🏻‍💻 Projet en cours : développement d’une **application web avec Symfony** pour un client
 - 🌱 Montée en compétences continue sur **PHP / Symfony**
-- 📱 Prochain objectif : découverte du **développement mobile avec Flutter**
-- 🎯 Je souhaite suivre une formation en **UX/UI Design** afin de compléter mes compétences techniques
+- 🎯 Prochain objectif : découverte du **développement mobile avec Flutter**
 - 💻 Mes projets seront disponibles sur **mon site personnel en cours de développement**
 
 <br clear="both">
